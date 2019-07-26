@@ -15,3 +15,5 @@ The following directions assume that you have either manually 'forked' this repo
 4. Watch in the bottom right of your screen. If it prompts you to install some extensions, do it!
 
 😎Your coding environment should be ready to rumble. 🤓
+
+P.S. The settings for VS Code are set to use ['Incosolata' font](https://fonts.google.com/specimen/Inconsolata?selection.family=Inconsolata).
